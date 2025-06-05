@@ -6,7 +6,7 @@ icon: hand-wave
 # Welcome!
 
 {% hint style="info" %}
-This is the second beta version of Terminaux 7.0 that was released on June 12th, 2025.
+This is the second beta version of Terminaux 7.0 that was released on June 5th, 2025.
 
 If you still use old versions of Terminaux in your projects, go to the below links:
 
